@@ -25,3 +25,4 @@ def simple_calculator(first_number, second_number, arithmetic_operation):
         return 'Division by 0!'
 
 print(simple_calculator(first_num, second_num, arithmetic_op))
+
