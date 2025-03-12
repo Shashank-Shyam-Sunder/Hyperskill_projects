@@ -63,12 +63,6 @@ if args.type == "annuity":
             overpayment = int(monthly_payment * no_months) - args.principal
             print(f"Your overpayment = {int(overpayment)}")
 
-
-
-
-
-
-
 if args.type == "diff":
     if args.principal and args.interest and args.periods:
         if (args.principal >=0) and (args.interest>=0)  and (args.periods>=0) :
