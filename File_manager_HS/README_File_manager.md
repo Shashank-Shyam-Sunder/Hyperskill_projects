@@ -36,6 +36,11 @@ Input the command quit
 ## Requirements
 - Python 3.6 or higher
 
+You can install the required dependencies using:
+```bash
+pip install -r requirements_file_manager_hs.txt
+```
+
 ## Future Enhancements
 This basic version can be expanded to include:
 - Directory navigation with `cd` commands

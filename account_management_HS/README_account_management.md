@@ -70,6 +70,11 @@ This program can be used by:
 ## Requirements
 - Python 3.6 or higher
 
+You can install the required dependencies using:
+```bash
+pip install -r requirements_account_management.txt
+```
+
 ## Potential Enhancements
 - Save data to files for persistent storage
 - Add date tracking for income and expenses

@@ -61,3 +61,8 @@ Division by 0!
 
 ## Requirements
 - Python 3.6 or higher
+
+You can install the required dependencies using:
+```bash
+pip install -r requirements_simple_calculator.txt
+```

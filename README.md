@@ -125,7 +125,18 @@ These projects represent a progression in Python programming skills, from basic 
 Each project focuses on different aspects of Python programming and builds upon previously learned concepts.
 
 ## 📝 Requirements
-The projects require Python 3.6 or higher. Some projects may require additional libraries, which can be installed using:
+The projects require Python 3.6 or higher. Some projects may require additional libraries.
+
+### General Requirements
+For all projects, you can install the required dependencies using:
 ```bash
-pip install -r requirements.txt
+pip install -r requirements_all_projects.txt
+```
+
+### Project-Specific Requirements
+Each project folder contains its own requirements file that can be installed individually:
+```bash
+# Example for HTTP Requests project
+cd HTTP_requests_library
+pip install -r requirements_http_requests.txt
 ```

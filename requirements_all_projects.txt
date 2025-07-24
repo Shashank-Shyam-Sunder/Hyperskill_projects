@@ -1,0 +1,9 @@
+python>=3.6
+
+# HTTP Requests Library Dependencies
+requests>=2.25.0
+matplotlib>=3.3.0
+python-dotenv>=0.15.0
+
+# Hyperskill Test Framework
+https://github.com/hyperskill/hs-test-python/archive/release.tar.gz

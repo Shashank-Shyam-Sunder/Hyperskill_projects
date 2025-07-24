@@ -96,6 +96,11 @@ if match:
 - Python 3.6 or higher
 - `re` module (included in Python standard library)
 
+You can install the required dependencies using:
+```bash
+pip install -r requirements_regexps_python.txt
+```
+
 ## Learning Resources
 - [Python re Documentation](https://docs.python.org/3/library/re.html)
 - [Regular Expression HOWTO](https://docs.python.org/3/howto/regex.html)

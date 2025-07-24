@@ -72,3 +72,8 @@ quit
 
 ## Requirements
 - Python 3.6 or higher
+
+You can install the required dependencies using:
+```bash
+pip install -r requirements_file_manager.txt
+```

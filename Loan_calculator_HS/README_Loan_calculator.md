@@ -99,3 +99,8 @@ Overpayment: 45837
 ## Requirements
 - Python 3.6 or higher
 - `argparse` module (included in Python standard library)
+
+You can install the required dependencies using:
+```bash
+pip install -r requirements_loan_calculator.txt
+```

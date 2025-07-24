@@ -61,6 +61,11 @@ See you later!
 ## Requirements
 - Python 3.6 or higher
 
+You can install the required dependencies using:
+```bash
+pip install -r requirements_zookeeper.txt
+```
+
 ## Educational Value
 This project is an excellent introduction to Python programming, demonstrating:
 - Basic syntax and data structures

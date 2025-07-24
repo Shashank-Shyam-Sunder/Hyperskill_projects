@@ -27,7 +27,9 @@ __pycache__/
 *.yaml
 *.yml
 *.html
-*.txt
+# Track requirements_*.txt files but ignore requirements.txt
+requirements.txt
+!requirements_*.txt
 *.json
 *.xml
 *.csv

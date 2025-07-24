@@ -72,5 +72,12 @@ print(weather_info)
 
 ## Requirements
 - Python 3.6 or higher
-- `requests` library (`pip install requests`)
+- `requests` library for HTTP operations
+- `matplotlib` library for data visualization in the UI version
+- `python-dotenv` for environment variable handling
 - OpenWeatherMap API key (for weather data examples)
+
+You can install all the required dependencies using:
+```bash
+pip install -r requirements_http_requests.txt
+```

@@ -72,6 +72,11 @@ Congratulations, have a nice day!
 ## Requirements
 - Python 3.6 or higher
 
+You can install the required dependencies using:
+```bash
+pip install -r requirements_simple_chatbot.txt
+```
+
 ## Customization
 You can customize the chatbot by modifying:
 - The bot's name and creation year in the `greet()` function call
